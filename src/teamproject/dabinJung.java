@@ -5,5 +5,10 @@ package teamproject;
  *
  */
 public class dabinJung {
+	
+	
+	public void hello() {
+		System.out.println("khsstudy 짱!");
+	}
 
 }
