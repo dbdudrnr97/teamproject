@@ -5,5 +5,7 @@ package teamproject;
  *
  */
 public class Angimo {
-
+	public Angimo() {
+		
+	}
 }
