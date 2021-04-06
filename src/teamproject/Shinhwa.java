@@ -1,5 +1,5 @@
 package teamproject;
 
-public class shinwha {
+public class Shinhwa {
 
 }
