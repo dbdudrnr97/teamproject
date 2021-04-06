@@ -8,7 +8,7 @@ public class dabinJung {
 	
 	
 	public void hello() {
-		System.out.println("master 짱!");
+		System.out.println("khsstudy 짱!");
 	}
 
 }
